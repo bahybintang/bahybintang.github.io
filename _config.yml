@@ -1,5 +1,5 @@
 # main text of home
-name: Niveditha Ram
+name: Agus Budianto
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
@@ -7,8 +7,8 @@ description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: true
+picture: 'https://instagram.fcgk6-1.fna.fbcdn.net/t51.2885-15/e35/23825369_148736685771914_5607250894950236160_n.jpg'
 
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+#twitter: NivedithaRam
 # google: mygoogle
-# instagram: myinstagram
+instagram: xagusart
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: agusart
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: admin@agusart.cf
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
+    agusart:
+        name: Agus Budianto
         bio: Physics, Reading, Teaching.
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        external-image: true
+        picture: https://instagram.fcgk6-1.fna.fbcdn.net/t51.2885-15/e35/23825369_148736685771914_5607250894950236160_n.jpg
+        
 
 
 # do you want a larger site? change the option below
