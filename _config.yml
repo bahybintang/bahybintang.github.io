@@ -1,6 +1,6 @@
 # main text of home
 name: Agus Budianto
-bio: 'Physics, Teaching, Engineering.'
+bio: 'I like, I do.'
 
 # twitter summary info
 description: A blog about Physics and teaching science
@@ -25,7 +25,7 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+facebook: agusart
 #twitter: NivedithaRam
 # google: mygoogle
 instagram: xagusart
@@ -34,6 +34,7 @@ instagram: xagusart
 # youtube: myyoutube
 # spotify: myspotify
 github: agusart
+line: agusnetwork
 # medium: medium
 email: admin@agusart.cf
 
