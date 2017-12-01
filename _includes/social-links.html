@@ -16,6 +16,12 @@
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
         </a>
     {% endif %}
+	
+	{% if site.line %}
+        <a class="link" data-title="line.me/ti/p/~//{{ site.line }}" href="line.me/ti/p/~//{{ site.line }}" target="_blank">
+            <svg class="https://image.flaticon.com/icons/svg/82/82105.svg"><use xlink:href="https://image.flaticon.com/icons/svg/82/82105.svg"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.github %}
         <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
