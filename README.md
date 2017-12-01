@@ -1,6 +1,6 @@
 ## Arti Annaswamy's Personal Website 
 
-See it here - [artiannaswamy.com](http://artiannaswamy.com)
+See it here - [https://agusart.github.io/](https://agusart.github.io/)
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
 
